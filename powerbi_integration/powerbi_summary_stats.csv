@@ -1,0 +1,8 @@
+Metric,Value
+Total Records,676
+Training Records,540
+Test Records,136
+Total Features,26
+Selected Features,5
+Best Model,Gradient Boosting
+Best R2 Score,0.9612
